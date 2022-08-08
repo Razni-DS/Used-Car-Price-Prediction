@@ -16,9 +16,9 @@ After collecting the data, you need to build a machine learning model. Before mo
 
 I have Included complete life cycle of data science.
 
-DataCleaning
-Exploratory Data Analysis
-DataPre-processing
-ModelBuilding
-ModelEvaluation
-Selectingthebestmodel
+* DataCleaning
+* Exploratory Data Analysis
+* DataPre-processing
+* ModelBuilding
+* ModelEvaluation
+* Selectingthebestmodel
